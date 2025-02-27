@@ -1,3 +1,7 @@
-.DS_Store
-public
+#ignore generated content. This will be deployed
+public/
+resources/
+
+#hugo stuff :P
 *.lock
+.DS_Store
