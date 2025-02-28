@@ -22,3 +22,12 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "photos/"
   url = "photos/"
+
+  [[params.navlinks]]
+  name = "blog/"
+  url = "blog/"
+
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#       unsafe = true
